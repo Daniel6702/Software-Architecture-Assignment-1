@@ -25,10 +25,11 @@ set(CMAKE_CXX_STANDARD 14)
 # set include directory of all targets to the 'include' folder, this is similar
 # to '-I include' in gcc
 include_directories(include)
-
+##add_library(matlib src/my_math.cpp)
 # define library called queue that can imported into other targets via
 # 'target_link_libraries'
-add_library(matlib src/my_math.cpp)
+add_library(matlib src/main.cpp src/list_int_queue.cpp src/array_int_queue.cpp src/tests.cpp include/array_int_queue.hpp include/list_int_queue.hpp)
+target_include_directories(matlib PUBLIC include)
 
 # define executable named main for experimenting and debugging code
 add_executable(main src/main.cpp)

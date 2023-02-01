@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/matlib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\matlib.dir\\src\\main.cpp.obj -c \"C:\\Users\\peder\\OneDrive - Aarhus universitet\\Software Architecture\\Assignment 1\\Software-Architecture-Assignment-1\\src\\main.cpp\"",
+  "file": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/src/main.cpp"
+},
+{
+  "directory": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/matlib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\matlib.dir\\src\\list_int_queue.cpp.obj -c \"C:\\Users\\peder\\OneDrive - Aarhus universitet\\Software Architecture\\Assignment 1\\Software-Architecture-Assignment-1\\src\\list_int_queue.cpp\"",
+  "file": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/src/list_int_queue.cpp"
+},
+{
+  "directory": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/matlib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\matlib.dir\\src\\array_int_queue.cpp.obj -c \"C:\\Users\\peder\\OneDrive - Aarhus universitet\\Software Architecture\\Assignment 1\\Software-Architecture-Assignment-1\\src\\array_int_queue.cpp\"",
+  "file": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/src/array_int_queue.cpp"
+},
+{
+  "directory": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/matlib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\matlib.dir\\src\\tests.cpp.obj -c \"C:\\Users\\peder\\OneDrive - Aarhus universitet\\Software Architecture\\Assignment 1\\Software-Architecture-Assignment-1\\src\\tests.cpp\"",
+  "file": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/src/tests.cpp"
+},
+{
+  "directory": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\peder\\OneDrive - Aarhus universitet\\Software Architecture\\Assignment 1\\Software-Architecture-Assignment-1\\src\\main.cpp\"",
+  "file": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/src/main.cpp"
+},
+{
+  "directory": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\tests.dir\\src\\tests.cpp.obj -c \"C:\\Users\\peder\\OneDrive - Aarhus universitet\\Software Architecture\\Assignment 1\\Software-Architecture-Assignment-1\\src\\tests.cpp\"",
+  "file": "C:/Users/peder/OneDrive - Aarhus universitet/Software Architecture/Assignment 1/Software-Architecture-Assignment-1/src/tests.cpp"
+}
+]

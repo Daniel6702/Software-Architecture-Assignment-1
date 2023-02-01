@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libmatlib.a CMakeFiles/matlib.dir/src/main.cpp.obj CMakeFiles/matlib.dir/src/list_int_queue.cpp.obj CMakeFiles/matlib.dir/src/array_int_queue.cpp.obj CMakeFiles/matlib.dir/src/tests.cpp.obj
+C:\mingw64\bin\ranlib.exe libmatlib.a
