@@ -3,7 +3,7 @@
 
 #include "int_queue.hpp"
 
-class List_int_queue : public Int_queue {
+class List_int_queue : public Int_queue { //Inherits from Int_queue
 private:
     struct node;
     node *front, *rear;

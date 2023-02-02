@@ -3,7 +3,7 @@
 
 #include "int_queue.hpp"
 
-class Array_int_queue : public Int_queue {
+class Array_int_queue : public Int_queue { //Inherits from Int_queue
 private:
     int *queue;
     int max_length;

@@ -1,7 +1,7 @@
 #ifndef INT_QUEUE_H
 #define INT_QUEUE_H
 
-class Int_queue {
+class Int_queue { //Abstract class
     public:
         virtual void enqueue(int) = 0;
         virtual int dequeue() = 0;

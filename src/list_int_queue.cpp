@@ -13,7 +13,7 @@ struct List_int_queue::node {
 };
 
 void List_int_queue::enqueue(int x) {
-    node *temp;            //Create new node with new value x
+    node *temp = new node();            //Create new node with new value x
     temp->data= x;
     temp->link = NULL;
     if(empty()){ 
